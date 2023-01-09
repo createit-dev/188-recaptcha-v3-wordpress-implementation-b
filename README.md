@@ -10,6 +10,8 @@ How to add user-friendly captcha to wordpress project? Solution: after ajax form
 - Having this score - we can decide what todo: save data to database or display error
 - Form is saving user rating as custom-field
 
+![](https://raw.githubusercontent.com/createit-dev/188-recaptcha-v3-wordpress-implementation-b/master/images/recaptcha-3-wordpress-example.gif)
+
 ### Configuration
 - register new website in https://www.google.com/recaptcha/about/ - reCAPTCHA version 3
 - add website domains to the settings ( https://www.google.com/recaptcha/admin/site/XXXXXXX/settings )
