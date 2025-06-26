@@ -33,3 +33,5 @@ and adjust value (what is your threshold for accepting risk ratings). Value that
 ### Troubleshooting
 #### I'm getting captcha error: incorrect-captcha-sol
 - Make sure that your site domain is added to recaptcha configuration. If you're working locally - add localhost to the list.
+
+Read more on our site: https://www.createit.com/blog/recaptcha-v3-wordpress-implementation/
